@@ -13,7 +13,7 @@ const projects = [
     title: "E-Commerce Store",
     description: "Modern store with seamless UX & Stripe payments.",
     image: "/assets/project2.png",
-    link: "https://clone1-nine.vercel.app/",
+    link: "https://eccomerce-website-cvd0d8v1m-puneet-kathpalias-projects.vercel.app/",
   },
   {
     title: "Weather Forecast App",
