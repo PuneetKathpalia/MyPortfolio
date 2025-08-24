@@ -16,10 +16,10 @@ const projects = [
     link: "https://eccomerce-website-cvd0d8v1m-puneet-kathpalias-projects.vercel.app/",
   },
   {
-    title: "Weather Forecast App",
-    description: "Real-time weather dashboard using OpenWeather API.",
+    title: "Seasonal Wardrobe",
+    description: "AI Wardrobe: Smart outfit planning, styling, organization, and sustainability",
     image: "/assets/project3.png",
-    link: "https://weather-app-pk-52.vercel.app/",
+    link: "https://seasonal-wardrobe.onrender.com/",
   },
 ];
 
